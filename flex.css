@@ -3,6 +3,7 @@
 header, footer, section, article, aside, main, nav{
     border: 1px solid black;
     padding: 10px;
+    //
 }
 
 article header{
